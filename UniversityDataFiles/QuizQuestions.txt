@@ -1,0 +1,4 @@
+Tuition Costs,How much are you willing to pay for Tuition? (per year),< $9000,$10000,$11000,$12000,> $13000,true,
+Distance from University,How close do you want to live to your university?,Closest it can be, | ,Within a 2 hour drive, | ,As far as possible,true,
+Co-op,How much does Co-op matter to you?,<HTML>Not<br>Important<HTML>, | ,<HTML>Somewhat<br>Important<HTML>, | ,<HTML>Very<br>Important<HTML>,false,
+Class Size, What class size do you prefer?,<HTML>< 30<br>students<HTML>,<HTML>30-60<br>students<HTML>,<HTML>61-100<br>students<HTML>,<HTML>100-250<br>students<HTML>,<HTML>250+<br>students<HTML>,true

@@ -1,0 +1,4 @@
+English,Calculus,Physics,Adv. Function,Chemistry,Elective,
+100,100,100,100,100,100,
+43.8971,-79.2786,
+2,4,6,12,13,
